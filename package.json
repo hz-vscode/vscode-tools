@@ -1,0 +1,28 @@
+{
+    "name": "hz-tools",
+    "publisher": "hz-vscode",
+    "displayName": "hz-tools",
+    "description": "hz-tools",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "cweijan.vscode-redis-client", 
+        "eamodio.gitlens", 
+        "Fudge.auto-using", 
+        "HookyQR.beautify", 
+        "humao.rest-client", 
+        "k--kato.docomment", 
+        "ms-azuretools.vscode-docker", 
+        "ms-vscode-remote.remote-wsl", 
+        "redhat.vscode-yaml", 
+        "sourcegraph.sourcegraph", 
+        "vscode-icons-team.vscode-icons",
+        "jebbs.plantuml"
+    ]
+}
