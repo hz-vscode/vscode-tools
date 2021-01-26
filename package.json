@@ -19,7 +19,6 @@
         "humao.rest-client", 
         "k--kato.docomment", 
         "ms-azuretools.vscode-docker", 
-        "ms-vscode-remote.remote-wsl", 
         "redhat.vscode-yaml", 
         "sourcegraph.sourcegraph", 
         "vscode-icons-team.vscode-icons",
